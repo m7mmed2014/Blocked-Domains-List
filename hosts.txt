@@ -1980,4 +1980,112 @@
 0.0.0.0 zh-cn.facebook.com
 0.0.0.0 zh-hk.facebook.com
 0.0.0.0 zh-tw.facebook.com
+
 0.0.0.0 zh-tw.facebook.com0.facebook.com
+############################################################
+# MEGA FAMILY PROTECTION HOSTS SCRIPT
+# Blocks: Telegram - Shahid - Movies - Football - News
+# Format: 0.0.0.0 domain
+############################################################
+
+
+########################
+# TELEGRAM FULL BLOCK
+########################
+0.0.0.0 telegram.org
+0.0.0.0 www.telegram.org
+0.0.0.0 t.me
+0.0.0.0 telegram.me
+0.0.0.0 telegra.ph
+0.0.0.0 telegram-cdn.org
+0.0.0.0 api.telegram.org
+0.0.0.0 core.telegram.org
+0.0.0.0 web.telegram.org
+0.0.0.0 desktop.telegram.org
+0.0.0.0 ios.telegram.org
+0.0.0.0 android.telegram.org
+
+
+########################
+# SHAHID + MBC
+########################
+0.0.0.0 shahid.net
+0.0.0.0 www.shahid.net
+0.0.0.0 shahid.mbc.net
+0.0.0.0 mbc.net
+0.0.0.0 www.mbc.net
+0.0.0.0 mbc3.net
+
+
+########################
+# MOVIE / STREAMING SITES
+########################
+0.0.0.0 egybest.com
+0.0.0.0 egybest.org
+0.0.0.0 cima4u.tv
+0.0.0.0 cima4up.tv
+0.0.0.0 faselhd.com
+0.0.0.0 akoam.net
+0.0.0.0 mycima.cc
+0.0.0.0 wecima.movie
+0.0.0.0 movizland.com
+0.0.0.0 fushaar.net
+0.0.0.0 topcinema.tv
+0.0.0.0 cinemalek.com
+0.0.0.0 dardarkom.com
+0.0.0.0 watchit.com
+0.0.0.0 netflix.com
+0.0.0.0 www.netflix.com
+
+
+########################
+# FOOTBALL STREAMING
+########################
+0.0.0.0 yalla-shoot.com
+0.0.0.0 yallashoot.com
+0.0.0.0 yalla-shoot.live
+0.0.0.0 kora-online.tv
+0.0.0.0 koora-live.com
+0.0.0.0 koralive.tv
+0.0.0.0 as-goal.com
+0.0.0.0 beinmatch.tv
+0.0.0.0 goalarab.com
+0.0.0.0 coolkora.com
+
+
+########################
+# NEWS SITES
+########################
+0.0.0.0 youm7.com
+0.0.0.0 masrawy.com
+0.0.0.0 almasryalyoum.com
+0.0.0.0 elwatannews.com
+0.0.0.0 skynewsarabia.com
+0.0.0.0 aljazeera.net
+0.0.0.0 cnn.com
+0.0.0.0 bbc.com
+
+
+########################
+# COMMON STREAM KEYWORDS DOMAINS
+########################
+0.0.0.0 streamhd.net
+0.0.0.0 livehd7.tv
+0.0.0.0 aflamhd.com
+0.0.0.0 moviehdmax.com
+0.0.0.0 koralive.online
+
+
+########################
+# PUBLIC DNS / VPN (Basic Block)
+########################
+0.0.0.0 cloudflare-dns.com
+0.0.0.0 dns.google
+0.0.0.0 openvpn.net
+0.0.0.0 protonvpn.com
+0.0.0.0 nordvpn.com
+0.0.0.0 expressvpn.com
+
+############################################################
+# END OF SCRIPT
+############################################################
