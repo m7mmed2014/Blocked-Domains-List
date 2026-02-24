@@ -2064,6 +2064,21 @@
 0.0.0.0 aljazeera.net
 0.0.0.0 cnn.com
 0.0.0.0 bbc.com
+0.0.0.0 youm7.com
+0.0.0.0 www.youm7.com
+0.0.0.0 m.youm7.com
+0.0.0.0 img.youm7.com
+0.0.0.0 images.youm7.com
+0.0.0.0 video.youm7.com
+0.0.0.0 videos.youm7.com
+0.0.0.0 api.youm7.com
+0.0.0.0 cdn.youm7.com
+0.0.0.0 static.youm7.com
+0.0.0.0 media.youm7.com
+0.0.0.0 assets.youm7.com
+0.0.0.0 rss.youm7.com
+0.0.0.0 feeds.youm7.com
+
 
 
 ########################
@@ -2089,3 +2104,4 @@
 ############################################################
 # END OF SCRIPT
 ############################################################
+
